@@ -13,7 +13,7 @@ class RegisterPage extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                Image.asset('assets/logo.png', height: 100),
+                Image.asset('assets/logo.png', height: 150),
                 const SizedBox(height: 20),
                 const Text(
                   'Daftar',
