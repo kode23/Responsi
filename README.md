@@ -4,6 +4,12 @@ Ikbal Sohiburido Lukfi 5210411161
 
 # Hasil Tampilan
 ![alt text](https://github.com/kode23/Responsi/blob/main/assets/Splash.jpg?raw=true)
+![alt text](https://github.com/kode23/Responsi/blob/main/assets/Login.jpg?raw=true)
+![alt text](https://github.com/kode23/Responsi/blob/main/assets/LupaPassword.jpg?raw=true)
+![alt text](https://github.com/kode23/Responsi/blob/main/assets/Daftar.jpg?raw=true)
+![alt text](https://github.com/kode23/Responsi/blob/main/assets/Home.jpg?raw=true)
+![alt text](https://github.com/kode23/Responsi/blob/main/assets/Akun.jpg?raw=true)
+![alt text](https://github.com/kode23/Responsi/blob/main/assets/KelolaAkun.jpg?raw=true)
 
 ## Getting Started
 
