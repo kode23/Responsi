@@ -1,6 +1,6 @@
 # responsi
 
-A new Flutter project.
+Ikbal Sohiburido Lukfi 5210411161
 
 ## Getting Started
 
