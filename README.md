@@ -1,6 +1,9 @@
-# responsi
+# Responsi
 
 Ikbal Sohiburido Lukfi 5210411161
+
+# Hasil Tampilan
+![alt text](https://github.com/kode23/Responsi/blob/main/assets/Splash.jpg?raw=true)
 
 ## Getting Started
 
