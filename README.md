@@ -3,7 +3,7 @@
 Ikbal Sohiburido Lukfi 5210411161
 
 # Hasil Tampilan
-<img src="assets/Splash.jpg" width="600">
+![alt text](https://github.com/kode23/Responsi/blob/main/Frame%202.png?raw=true)
 
 
 ## Getting Started
