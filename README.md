@@ -1,7 +1,3 @@
-# Hasil
-
-assets/Splash.jpg
-
 # responsi
 
 Ikbal Sohiburido Lukfi 5210411161
